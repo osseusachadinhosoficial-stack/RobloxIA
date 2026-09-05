@@ -1,0 +1,7 @@
+{
+  "name": "Roblox Dev Environment Blueprint",
+  "description": "IDE Workspace e orquestrador de desenvolvimento Roblox para criadores, com Claude AI, geração de código Luau e sincronização em segundo plano via Rojo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
